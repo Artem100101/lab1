@@ -7,7 +7,7 @@ public class Main {
     private static ServerSocket server; // серверсокет
     private static BufferedReader in; // поток чтения из сокета
     private static BufferedWriter out; // поток записи в сокет
-    private static String line = "Hello";
+    private static String line = "Hello1";
 
     public static void main(String[] args) {
         try {
